@@ -1,2 +1,2 @@
-### This the code of king
+### This code belongs to king
 [Govind A](https://github.com/GOVINDFROMINDIA)
