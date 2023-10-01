@@ -16,4 +16,7 @@ A repository for Python and Machine Learning Lab
 - [6.Simple Linear Regression](https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/tree/main/_6.Simple-Linear-Regression)
 - [7.Multivariate Linear Regression](https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/tree/main/_7.Multiple-LInear-Regression)
 - [8.Polynomial Regression](https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/tree/main/_8.Polynomial-Regression)
-- 9.Artificial Neural Networks using Backpropagation
+- [9.Artificial Neural Networks using Backpropagation]
+
+### Syllabus
+- [Click Here to View](https://github.com/CSI-SCT-SB/AML-331-Python-and-Machine-Learning-Lab/blob/main/Syllabus.pdf)
